@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 最新 -->
+    <item name="tag_get_newest" type="id"/>
+    <!-- 最热 -->
+    <item name="tag_get_hot" type="id"/>
+    <!-- 有图 -->
+    <item name="tag_get_picture" type="id"/>
+
+</resources>

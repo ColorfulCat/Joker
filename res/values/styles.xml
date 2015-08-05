@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- //1、设置背景图Theme -->
+
+
+    <!-- <style name="Theme.AppStartLoad" parent="android:Theme"> -->
+    <!-- <item name="android:windowBackground">@drawable/ipod_bg</item> -->
+    <!-- <item name="android:windowNoTitle">true</item> -->
+    <!-- </style> -->
+
+    <style name="Theme.AppStartLoadTranslucent" parent="android:Theme">
+<!--         <item name="android:windowIsTranslucent">true</item>
+ -->        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
