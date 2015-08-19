@@ -1,2 +1,2 @@
-![](img1.gif " ")
-![](img2.gif " ")
+![](img1.png " ")
+![](/img2.png " ")
